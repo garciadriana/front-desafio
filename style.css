@@ -1,0 +1,306 @@
+body{
+    background-color: #E5E5E5;
+}
+#ilustra{
+    background-image: url(../DesafioFrontEnd/Illustration.svg);
+    position: absolute;
+    width: 1591px;
+    height: 778.92px;
+    left: -174px;
+    top: 475px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+h1{
+    position: absolute;
+    width: 580px;
+    height: 70px;
+    left: calc(50% - 580px/2);
+    top: 110px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    letter-spacing: 0.0125em;
+    color: #2D3A40;
+}
+h2{
+    position: absolute;
+    width: 580px;
+    height: 20px;
+    left: calc(50% - 580px/2);
+    top: 197px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 26px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #748296;
+}
+#bg{
+    position: absolute;
+    width: 620px;
+    height: 597px;
+    left: 410px;
+    top: 290px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 40px rgba(116, 130, 150, 0.2);
+    border-radius: 3px;
+}
+#rectangle{
+    position: absolute;
+    width: 1440px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+#v{
+    position: absolute;
+    width: 14.61px;
+    height: 15.14px;
+    left: 250px;
+    top: 17.41px;
+    background: url(../DesafioFrontEnd/XMLID_6.png) no-repeat;
+}
+#o{
+    position: absolute;
+    width: 16.06px;
+    height: 15.98px;
+    left: 265.5px;
+    top: 17px;
+    background: url(../DesafioFrontEnd/Vector.png) no-repeat;
+}
+#x{
+    position: absolute;
+    width: 14.46px;
+    height: 15.14px;
+    left: 282.57px;
+    top: 17.43px;
+    background: url(../DesafioFrontEnd/XMLID_3.png) no-repeat;
+}
+#u{
+    position: absolute;
+    width: 17.42px;
+    height: 15.53px;
+    left: 297.35px;
+    top: 17.45px;
+    background: url(../DesafioFrontEnd/XMLID_2.png) no-repeat;
+}
+#s{
+    position: absolute;
+    width: 13.88px;
+    height: 15.96px;
+    left: 315.37px;
+    top: 17.04px;
+    background: url(../DesafioFrontEnd/XMLID_1.png) no-repeat;
+}
+#nome{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: calc(50% - 280px/2);
+    top: 35px;
+    background: #FFFFFF;
+    border: 1px solid rgba(116, 130, 150, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.style{
+    width: 140px;
+    height: 20px;
+    left: calc(50% - 140px/2 - 55px);
+    top: 328px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.0125em;
+    color: rgba(45, 58, 64, 0.3);
+}
+#telefone{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: calc(50% - 280px/2);
+    top: 100px;
+    background: #FFFFFF;
+    border: 1px solid rgba(116, 130, 150, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+    
+}
+#pais{
+    position: absolute;
+    width: 42px;
+    height: 1px;
+    left: 641px;
+    top: 431px;
+    border: 1px solid rgba(116, 130, 150, 0.2);
+    transform: rotate(-90deg);
+}
+#email{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: calc(50% - 280px/2);
+    top: 165px;
+    background: #FFFFFF;
+    border: 1px solid rgba(116, 130, 150, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+#empresa{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: calc(50% - 280px/2);
+    top: 230px;
+    background: #FFFFFF;
+    border: 1px solid rgba(116, 130, 150, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+#url{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: calc(50% - 280px/2);
+    top: 295px;
+    background: #FFFFFF;
+    border: 1px solid rgba(116, 130, 150, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+#verba{
+    position: absolute;
+    width: 280px;
+    height: 42px;
+    left: calc(50% - 280px/2);
+    top: 360px;
+    background: #FFFFFF;
+    border: 1px solid rgba(116, 130, 150, 0.2);
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+#btn{
+    position: center;
+    width: 250px;
+    height: 42px;
+    left: calc(50% - 250px/2);
+    top: 425px;
+    background: #14E298;
+    border: 3px;
+    border-radius: 3px;
+    transition-duration: 0.4s;
+}
+.btn_style{
+    position: absolute;
+    width: 210px;
+    height: 20px;
+    left: 615px;
+    top: 760px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    display: inline-block;
+    align-items: center;
+    letter-spacing: 0.0125em;
+    color: #FFFFFF;
+    transition-duration: 0.4s;
+}
+.btn_style:hover{
+    background-color: #14E298;
+    color: #23F7AB;
+}
+hr{
+    position: absolute;
+    width: 940px;
+    height: 0px;
+    left: calc(50% - 940px/2);
+    bottom: 0;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+}
+footer {
+    position:absolute;
+    bottom:0;
+    width: 100%;
+}
+#termos{
+    position: absolute;
+    width: 118px;
+    height: 20px;
+    left: calc(50% - 118px/2 - 311px);
+    bottom: 42px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 36px;
+    /* or 257% */
+
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.0125em;
+
+    color: #748296;
+}
+#privacidade{
+    position: absolute;
+    width: 145px;
+    height: 20px;
+    left: calc(50% - 145px/2 - 159.5px);
+    bottom: 42px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 36px;
+    /* or 257% */
+
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.0125em;
+
+    color: #748296;
+}
+#anuncio{
+    position: absolute;
+    width: 123px;
+    height: 20px;
+    left: calc(50% - 123px/2 - 5.5px);
+    bottom: 42px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 36px;
+    /* or 257% */
+
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: 0.0125em;
+
+    color: #748296;
+}
+.btn_1{
+        background-color: white;
+        color: black;
+        border: 2px solid #4CAF50; 
+      
+}
